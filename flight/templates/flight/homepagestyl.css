@@ -1,0 +1,10 @@
+.navbar{
+    position:absolute;
+    top:0;
+    left:0;
+    display:flex;
+    width:100%;
+    justify-content:space-between;
+    padding:20px;
+    color:white;  
+}
